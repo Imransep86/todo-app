@@ -3,13 +3,13 @@ Update the OS
 add a new member
 clean the floor
 make soup
-make pizza
-Turn off the lights.
-New order
-We just made a defaault arg
-
-Hi
-Hi
-Hi
+make cakeTurn off the lights.
+Order new fanWe just made a defaault arg
+happyHi ImranHi
 Hi
 Master in Python!
+Anything
+Add cycle
+Remove package
+
+throw old things
