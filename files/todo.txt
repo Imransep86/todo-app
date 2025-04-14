@@ -5,11 +5,6 @@ clean the floor
 make soup
 make cakeTurn off the lights.
 Order new fanWe just made a defaault arg
-happyHi ImranHi
-Hi
 Master in Python!
 Anything
 Add cycle
-Remove package
-
-throw old things
